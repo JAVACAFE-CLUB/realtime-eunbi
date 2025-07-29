@@ -4,7 +4,7 @@
 
 ### 1. 전체 프로세스
 
-<img width="921" height="61" alt="Image" src="https://github.com/user-attachments/assets/1943ab5a-0629-49ae-89b4-fc997f59e135" />
+<img width="921" height="61" alt="Image" src="https://github.com/user-attachments/assets/2f09e472-db7c-4aae-b84a-c7938fc8544f" />
 
 <br>
 
