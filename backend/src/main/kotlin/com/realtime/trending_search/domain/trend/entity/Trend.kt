@@ -1,6 +1,6 @@
-package com.realtime.trending_search.global.common.trend.entity
+package com.realtime.trending_search.domain.trend.entity
 
-import com.realtime.trending_search.global.common.trend.enum.TrendStatus
+import com.realtime.trending_search.domain.trend.enum.TrendStatus
 import jakarta.persistence.Column
 import jakarta.persistence.Entity
 import jakarta.persistence.Id

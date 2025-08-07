@@ -1,4 +1,4 @@
-package com.realtime.trending_search.global.common.trend.enum
+package com.realtime.trending_search.domain.trend.enum
 
 enum class TrendStatus {
     UP,    // 상승

@@ -1,6 +1,6 @@
-package com.realtime.trending_search.global.common.trend.dto
+package com.realtime.trending_search.domain.trend.dto
 
-import com.realtime.trending_search.global.common.trend.enum.TrendStatus
+import com.realtime.trending_search.domain.trend.enum.TrendStatus
 
 data class TrendDto(
     val title: String,
