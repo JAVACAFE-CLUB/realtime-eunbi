@@ -1,1 +1,1 @@
-rootProject.name = "Realtime-Trending-Searches"
+rootProject.name = "trending_search"
