@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: trending_search
+  profiles:
+    active: local
